@@ -1,16 +1,40 @@
-# exam_demo_unsplash
+# Resplash
+# This is unsplash like application made with fluttter.
 
-A new Flutter project.
+Here you can search and download images in high quality 
 
-## Getting Started
+# Application was made using getx management
 
-This project is a starting point for a Flutter application.
+Application uses real backend
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Libraries used in this application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+fluttertoast: ^8.2.4
+
+cached_network_image: ^3.2.2
+
+http: ^1.2.1
+
+
+
+
+## Download the APK
+
+You can download the latest version of the APK from the [Releases](apk/resplash.apk) page.
+
+Or scan qrcode to download
+
+![Image description](images/download.png)
+
+
+
+![Image description](images/Screenshot_20240601_104316.png)
+![Image description](images/Screenshot_20240601_104359.png)
+![Image description](images/Screenshot_20240601_104433.png)
+![Image description](images/Screenshot_20240601_104454.png)
+
+
+
+
+
